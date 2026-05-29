@@ -19,8 +19,7 @@
 - 🚀 Admitted to a **Double Degree at Télécom SudParis** (starting Sept 2026)
 - 🔬 Research intern at **Laboratoire LARODEC** — static analysis & AI-assisted Java refactoring
 - 🤖 Passionate about **AI, software quality, and competitive programming**
-- 🏛️ **Chairman & Co-founder** of [ORBYX ENSI Club](https://github.com/Haythemidi02) — organized AI workshops for 200+ students
-- ⚡ Fun fact: I scored **19.06/20** in my Baccalaureate with highest honors
+- 🏛️ **Chairman & Co-founder** of [ORBYX ENSI Club](https://github.com/Haythemidi02) 
 
 ---
 
@@ -29,38 +28,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,html,css,fastapi,php,mysql,linux,git,github&perline=7" />
 </p>
-
-**Languages:** Python · C · C++ · Java · JavaScript · PL/SQL · Assembly  
-**Frontend:** HTML5 · CSS3 · JavaScript · React  
-**Backend:** FastAPI · PHP  
-**Tools:** Linux (Bash · AWK · Sed) · Git · GitHub  
-**AI/ML:** Scikit-learn · Deep Learning · NLP · LLMs · Semantic Embeddings · RAG
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 [ClassMoveExplorer](https://github.com/Haythemidi02) *(Jun – Aug 2025)*
-> Python prototype that detects **misplaced classes** in large Java projects and suggests correct destination packages using dependency analysis, semantic embeddings, and an LLM module.  
-`Python` `AST Analysis` `Semantic Embeddings` `LLM` `Java`
-
----
-
-### 🛡️ [IDRS — Intrusion Detection & Response System](https://github.com/Haythemidi02) *(Nov 2025 – May 2026)*
-> AI-powered system that detects **network anomalies and web attacks** using ML, deep learning, and NLP models. Includes a FastAPI backend, React dashboard, and a **Gemini-powered RAG engine** for real-time monitoring and automated remediation.  
-`FastAPI` `React` `Machine Learning` `Deep Learning` `NLP` `Gemini` `RAG`
-
----
-
-### 🧩 [Pastewise](https://github.com/Haythemidi02) *(May 2026)*
-> AI-powered **Chrome extension** that analyzes copied code before pasting — instant explanations, concept tags, and learning insights through a FastAPI backend.  
-`Chrome Extension` `FastAPI` `Python` `AI` `Developer Tools`
-
----
-
-### 🏪 Web-based Kiosk Management System *(Jan – May 2025)*
-> PHP/MySQL web app for managing a service-station kiosk with an admin dashboard for sales and operations tracking.  
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
@@ -82,27 +49,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Haythemidi02&theme=tokyonight&no-frame=true&column=6" />
 </p>
-
----
-
-## 📜 Certifications
-
-- 🟢 **NVIDIA** — Fundamentals of Deep Learning
-- 🔵 **DataCamp** — Introduction to LLMs
-- 🔵 **DataCamp** — Supervised Learning Track
-
----
-
-## 🎯 Competitive Programming
-
-- Regular **Codeforces** competitor focused on advanced algorithms and optimization
-- ECPC Expert Member
-
----
-
-## 🌍 Languages
-
-🇫🇷 French — Very good &nbsp;|&nbsp; 🇬🇧 English — Very good &nbsp;|&nbsp; 🇹🇳 Arabic — Native
 
 ---
 
