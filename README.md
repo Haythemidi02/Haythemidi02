@@ -45,8 +45,8 @@
 
 - 🎓 Second-year **Engineering student in Computer Science** at [ENSI](https://ensi.rnu.tn/), Tunisia
 - 🚀 Admitted to a **Double Degree at Télécom SudParis** (starting Sept 2026)
-- 🤖 Passionate about **AI, software quality, and competitive programming**
-- 🏛️ **Chairman & Co-founder** of [ORBYX ENSI Club](https://github.com/Haythemidi02)
+- 🤖 Passionate about **AI and competitive programming**
+- 🏛️ **Chairman & Co-founder** of ORBYX ENSI Club
 
 ---
 
