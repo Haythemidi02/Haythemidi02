@@ -40,44 +40,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haythemidi02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haythemidi02&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Haythemidi02&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Haythemidi02&theme=tokyonight&no-frame=true&column=6" />
-</p>
-
----
-
-<!-- Animated snake contribution graph -->
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haythemidi02/Haythemidi02/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haythemidi02/Haythemidi02/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Haythemidi02/Haythemidi02/output/github-snake.svg"/>
-  </picture>
-</p>
-
----
-
-<!-- Profile view counter + wave footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Haythemidi02&color=00d9ff&style=flat-square&label=Profile+Views"/>
-</p>
-
 <!-- Animated wave footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
