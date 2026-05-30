@@ -20,7 +20,6 @@
   <b>AI & ML Enthusiast 🤖</b> • 
   <b>Competitive Programmer ⚡</b> • 
   <b>Builder of things that matter 🚀</b> • 
-  <b>Double Degree @ Télécom SudParis 🎓</b>
 </p>
 
 <!-- Badge row -->
@@ -44,7 +43,6 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Second-year **Engineering student in Computer Science** at [ENSI](https://ensi.rnu.tn/), Tunisia
-- 🚀 Admitted to a **Double Degree at Télécom SudParis** (starting Sept 2026)
 - 🤖 Passionate about **AI and competitive programming**
 - 🏛️ **Chairman & Co-founder** of ORBYX ENSI Club
 
