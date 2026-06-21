@@ -44,7 +44,7 @@
 
 - 🎓 Second-year **Engineering student in Computer Science** at [ENSI](https://ensi.rnu.tn/), Tunisia
 - 🤖 Passionate about **AI and competitive programming**
-- 🏛️ **Chairman & Co-founder** of ORBYX ENSI Club
+- 🏛️ **Co-founder** of ORBYX ENSI Club
 
 ---
 
